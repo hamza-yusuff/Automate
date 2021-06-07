@@ -1,7 +1,7 @@
 import smtplib,ssl
 
 user='hamzalondon27yusuff@gmail.com'
-password='isfarnayeem'
+password=''
 port=465
 
 
